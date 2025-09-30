@@ -1,5 +1,5 @@
 {
-    "mode": "clean",
+    "mode": "custom",
     "commands": [
         {
             "type": "download",
